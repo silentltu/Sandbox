@@ -56,4 +56,4 @@ echo Your Computer has Committed Suicide!
 
 timeout t 1 nobreak nul
 
-start chrome.exe https://www.youtube.com/watchv=dQw4w9WgXcQ
+start chrome.exe https://www.youtube.com/watch?v=dQw4w9WgXcQ
